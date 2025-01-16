@@ -173,8 +173,8 @@ The tracks in this game were created by Pandora Nova, but the title screen was i
 Parts of the grading system were contributed by CreeperCraftYT™
 
 
-## License
-Copyright (C) 2023 - Randy Thiemann <randy.thiemann@gmail.com>
+Integrated into Web3 in 2025 - By Dev Avdol <aahmaddadani@gmail.com>
+CEO of iOrbit Lab & iOrbit Games Zone
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
